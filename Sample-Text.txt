@@ -1,0 +1,4 @@
+Basically you have to read it in memory. Open the file,
+allocate the array, and read the contents from the file into the array.
+The simplest way is something similar to this:
+Prova Prova 123
