@@ -1,4 +1,6 @@
-Basically you have to read it in memory. Open the file,
-allocate the array, and read the contents from the file into the array.
-The simplest way is something similar to this:
-Prova Prova 123
+Cyber-security has its unique role in securing information in every sector.
+Protecting information from is hackers have become more challenging.
+First thing that strikes in mind with the word hacker is cyber threats which is the major concern
+for every data handling organisations. Various policies and regulation acts were being implemented
+by organisations and governments to prevent cyber crimes. This paper focuses on cyber-security
+challenges, the world is facing and required techniques and technologies to prevent them.
